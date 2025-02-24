@@ -1,0 +1,2 @@
+/Users/shehjarsadhu/Desktop/UniversityOfRhodeIsland/Graduate/WBL/Project_MINDER/upload_app_2/android/app/.cxx/Debug/5vqu5d5u/x86_64/CMakeFiles/edit_cache.dir
+/Users/shehjarsadhu/Desktop/UniversityOfRhodeIsland/Graduate/WBL/Project_MINDER/upload_app_2/android/app/.cxx/Debug/5vqu5d5u/x86_64/CMakeFiles/rebuild_cache.dir
